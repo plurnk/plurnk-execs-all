@@ -1,6 +1,6 @@
 {
     "name": "@plurnk/plurnk-execs-all",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Batteries-included bundle for plurnk-service's exec scheme — installs @plurnk/plurnk-execs plus every first-party runtime executor (flat) so one dependency surfaces them all to discovery.",
     "keywords": [
         "plurnk",
@@ -31,11 +31,11 @@
         "README.md"
     ],
     "dependencies": {
-        "@plurnk/plurnk-execs-common": "0.2.4",
-        "@plurnk/plurnk-execs-search": "0.2.5",
-        "@plurnk/plurnk-execs-sqlite": "0.1.6",
-        "@plurnk/plurnk-execs-wasm": "0.1.4",
-        "@plurnk/plurnk-execs-git": "0.1.3",
-        "@plurnk/plurnk-execs-jq": "0.1.4"
+        "@plurnk/plurnk-execs-common": "0.2.5",
+        "@plurnk/plurnk-execs-search": "0.2.6",
+        "@plurnk/plurnk-execs-sqlite": "0.1.7",
+        "@plurnk/plurnk-execs-wasm": "0.1.5",
+        "@plurnk/plurnk-execs-git": "0.1.4",
+        "@plurnk/plurnk-execs-jq": "0.1.5"
     }
 }
