@@ -1,6 +1,6 @@
 {
     "name": "@plurnk/plurnk-execs-all",
-    "version": "0.1.11",
+    "version": "0.1.12",
     "description": "Batteries-included bundle for plurnk-service's exec scheme — installs @plurnk/plurnk-execs plus every first-party runtime executor (flat) so one dependency surfaces them all to discovery.",
     "keywords": [
         "plurnk",
@@ -36,6 +36,6 @@
         "@plurnk/plurnk-execs-sqlite": "0.1.10",
         "@plurnk/plurnk-execs-wasm": "0.1.8",
         "@plurnk/plurnk-execs-git": "0.1.6",
-        "@plurnk/plurnk-execs-jq": "0.1.7"
+        "@plurnk/plurnk-execs-jq": "0.1.8"
     }
 }
