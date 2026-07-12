@@ -1,3 +1,5 @@
+> **DEPRECATED.** The `-all` aggregators are retired — the default bundle is defined by `@plurnk/plurnk-service`'s own dependencies; optional plugins are installed individually. See `plurnk/plurnk-service` MIGRATION.md.
+
 # @plurnk/plurnk-execs-all
 
 Batteries-included bundle for [plurnk-service](https://github.com/plurnk/plurnk-service)'s `exec` scheme. **It ships no code** — it's a single dependency that pulls in the [plurnk-execs](https://github.com/plurnk/plurnk-execs) framework plus every first-party runtime executor, **flat**, so one install surfaces them all to the framework's `discover()` scan.
